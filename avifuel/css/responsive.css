@@ -1,0 +1,25 @@
+@media only screen and  (min-width: 768px) {
+    .top-menu__links
+    {
+        display:flex;
+        justify-content:flex-end;
+        align-items: flex-end;
+    }
+
+    .brand__image
+    {
+        position:absolute;
+        top:-1.5rem;
+    }
+
+    .nav-links__container
+    {
+        justify-content: flex-end;
+        align-items: flex-end;
+        margin-top:1rem;
+    }
+}
+
+@media only screen and  (min-width: 1024px) {
+
+}
